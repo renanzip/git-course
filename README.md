@@ -1,2 +1,2 @@
 # git-course
-Destinado ao aprendizado de gti
+Destinado ao aprendizado de git
